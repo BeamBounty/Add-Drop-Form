@@ -9,14 +9,45 @@
 
 \begin{document}
 
-\begin{align}
-    %\hspace{0.5in}
-    \emph{Completed Form Must Be Submitted &To& Registrar's Office For Processing}
-    \section*{University &of& Bridgeport}
-    \underline{Schedule &Change& Request} \vspace{0.2cm} \\ 
-    %\hspace{2.0cm}
-    \emph{This Form Must Be Used To Effect &ALL& Change Action To Student's Schedule}
-\end{align}
+\begin{center}
+    \hspace{0.5in}
+    \emph{Completed Form Must Be Submitted To Registrar's Office For Processing}
+    \section*{University of Bridgeport}
+    \underline{Schedule Change Request} \vspace{0.2cm} \\ 
+    \hspace{2.0cm}
+    \emph{This Form Must Be Used To Effect ALL Change Action To Student's Schedule}
+\end{center}
 \vspace{-3.5cm} \includegraphics[scale=0.08]{UB_Logo}
+
+\vspace{1.0cm}
+
+\begin{tabular}{l | l}
+    
+    \TextField[height =0.5cm, width =5.0cm]{\Large Student ID:} &
+    \TextField[height =0.5cm, width =5.0cm]{\Large Semester/Year:} \\
+
+    \TextField[height =0.5cm, width =5.0cm]{\Large Last Name:} &
+    \TextField[height =0.5cm, width =5.0cm]{\Large First Name: \hspace{0.5cm}} \\ 
+
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{l | l | l} 
+
+    \TextField[height =0.5cm, width =4.0cm]{\Large Address:} & 
+    \TextField[height =0.5cm, width =3.0cm]{\Large City \& State:} &
+    \TextField[height =0.5cm, width =2.5cm]{\Large Zip:} 
+
+\end{tabular}
+
+\vspace{0.5cm}
+
+\begin{tabular}{l | l}
+    \ChoiceMenu[combo,height =0.5cm, width =5.9cm]{\Large Status:}{Full-Time, Part-Time} \hspace{0.0cm} & 
+    \ChoiceMenu[combo,height =0.5cm, width =4.8cm]{\Large Graduate Level:}{Undergraduate, Graduate} 
+\end{tabular}
+
+
 
 \end{document}
