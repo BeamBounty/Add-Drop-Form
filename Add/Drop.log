@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  29 AUG 2022 16:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  29 AUG 2022 17:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -246,26 +246,25 @@ File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 ) (Drop.aux)
 \openout1 = `Drop.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-Package hyperref Info: Link coloring OFF on input line 8.
- (Drop.out) (Drop.out)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Package hyperref Info: Link coloring OFF on input line 10.
 \@outlinefile=\write3
 \openout3 = `Drop.out'.
 
@@ -296,15 +295,15 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
-* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=430.00462pt
-* \textheight=556.47656pt
-* \oddsidemargin=19.8752pt
-* \evensidemargin=19.8752pt
-* \topmargin=-13.87262pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -322,22 +321,1485 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(Drop.aux)
-Package rerunfilecheck Info: File `Drop.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 12.
+(C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 12.
+ (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> \em Completed Form Must Be Submitted &
+                                                 To& Registrar's Office For ...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...m Completed Form Must Be Submitted &
+                                                  To& Registrar's Office For...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...m Completed Form Must Be Submitted &
+                                                  To& Registrar's Office For...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...m Completed Form Must Be Submitted &
+                                                  To& Registrar's Office For...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Incomplete \ifmmode; all text was ignored after line 19.
+<inserted text> 
+                \fi 
+l.19 \end{align}
+                
+A forbidden control sequence occurred in skipped text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra \fi.
+\emph  ...l #1\check@icr \expandafter \egroup \fi 
+                                                  
+l.19 \end{align}
+                
+I'm ignoring this; it doesn't match any \if.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{align}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{align}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Argument of \GTS@TestLeftSpace has an extra }.
+<inserted text> 
+                \par 
+l.19 \end{align}
+                
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+University 
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Paragraph ended before \GTS@TestLeftSpace was complete.
+<to be read again> 
+                   \par 
+l.19 \end{align}
+                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveLeft ...ace \GTS@GlobalString \GTS@Nil 
+                                                  \GTS@End 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Argument of \GTS@TestRightLabel has an extra }.
+<inserted text> 
+                \par 
+l.19 \end{align}
+                
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+University 
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Paragraph ended before \GTS@TestRightLabel was complete.
+<to be read again> 
+                   \par 
+l.19 \end{align}
+                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRight ...lobalString \label {}\GTS@Nil 
+                                                  \@nil \GTS@RemoveRightSpace 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRight ...tring \label {}\GTS@Nil \@nil 
+                                                  \GTS@RemoveRightSpace 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Argument of \GTS@TestRightSpace has an extra }.
+<inserted text> 
+                \par 
+l.19 \end{align}
+                
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+University 
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Paragraph ended before \GTS@TestRightSpace was complete.
+<to be read again> 
+                   \par 
+l.19 \end{align}
+                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRightSpace ...TS@GlobalString \GTS@Nil 
+                                                   \GTS@Nil \@nil 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRightSpace ...tring \GTS@Nil  \GTS@Nil 
+                                                  \@nil 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRightSpace ...\GTS@Nil  \GTS@Nil \@nil 
+                                                  
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.19 \end{align}
+                
+I'm guessing that you meant to end an alignment here.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing { inserted.
+<inserted text> 
+                {
+l.19 \end{align}
+                
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing { inserted.
+<inserted text> 
+                {
+l.19 \end{align}
+                
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+LaTeX Font Warning: Command \Large invalid in math mode on input line 19.
+
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: LaTeX Error: Command \bfseries invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{align}
+                
+Please use the math alphabet \mathbf instead of the \bfseries command. 
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...nAnchorHref {section*.1}University &
+                                                  of& Bridgeport
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...chorHref {section*.1}University &of&
+                                                   Bridgeport
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Display math should end with $$.
+<to be read again> 
+                   \tex_par:D 
+l.19 \end{align}
+                
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten \endgroup.
+\NR@ssect ...p #1}\interlinepenalty \@M #5\@@par }
+                                                  \endgroup \else \def \@svs...
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> Schedule &
+                     Change& Request
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> Schedule &Change&
+                             Request
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> This Form Must Be Used To Effect &
+                                             ALL& Change Action To Student's...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> This Form Must Be Used To Effect &ALL&
+                                                  Change Action To Student's...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced \cr.
+\math@cr@@@ ->\cr 
+                  
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced \cr.
+\measure@ ...olumn@ \z@ \add@amps \maxfields@ \cr 
+                                                  }}\restorecounters@ \ifodd...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Too many }'s.
+\measure@ ...lumn@ \z@ \add@amps \maxfields@ \cr }
+                                                  }\restorecounters@ \ifodd ...
+l.19 \end{align}
+                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Too many }'s.
+\measure@ ...umn@ \z@ \add@amps \maxfields@ \cr }}
+                                                  \restorecounters@ \ifodd \...
+l.19 \end{align}
+                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing number, treated as zero.
+<to be read again> 
+                   =
+l.19 \end{align}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing number, treated as zero.
+<to be read again> 
+                   \global 
+l.19 \end{align}
+                
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra \endgroup.
+\measure@ ...aywidth@ \displaywidth \fi \endgroup 
+                                                  
+l.19 \end{align}
+                
+Things are pretty mixed up, but I think the worst is over.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> \em Completed Form Must Be Submitted &
+                                                 To& Registrar's Office For ...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...m Completed Form Must Be Submitted &
+                                                  To& Registrar's Office For...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...m Completed Form Must Be Submitted &
+                                                  To& Registrar's Office For...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...m Completed Form Must Be Submitted &
+                                                  To& Registrar's Office For...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...ompleted Form Must Be Submitted &To&
+                                                   Registrar's Office For Pr...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Incomplete \ifmmode; all text was ignored after line 19.
+<inserted text> 
+                \fi 
+l.19 \end{align}
+                
+A forbidden control sequence occurred in skipped text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra \fi.
+\emph  ...l #1\check@icr \expandafter \egroup \fi 
+                                                  
+l.19 \end{align}
+                
+I'm ignoring this; it doesn't match any \if.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{align}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{align}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Argument of \GTS@TestLeftSpace has an extra }.
+<inserted text> 
+                \par 
+l.19 \end{align}
+                
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+University 
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Paragraph ended before \GTS@TestLeftSpace was complete.
+<to be read again> 
+                   \par 
+l.19 \end{align}
+                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten \endgroup.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveLeft ...ace \GTS@GlobalString \GTS@Nil 
+                                                  \GTS@End 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Argument of \GTS@TestRightLabel has an extra }.
+<inserted text> 
+                \par 
+l.19 \end{align}
+                
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+University 
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Paragraph ended before \GTS@TestRightLabel was complete.
+<to be read again> 
+                   \par 
+l.19 \end{align}
+                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRight ...lobalString \label {}\GTS@Nil 
+                                                  \@nil \GTS@RemoveRightSpace 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRight ...tring \label {}\GTS@Nil \@nil 
+                                                  \GTS@RemoveRightSpace 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Argument of \GTS@TestRightSpace has an extra }.
+<inserted text> 
+                \par 
+l.19 \end{align}
+                
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+University 
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Paragraph ended before \GTS@TestRightSpace was complete.
+<to be read again> 
+                   \par 
+l.19 \end{align}
+                
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRightSpace ...TS@GlobalString \GTS@Nil 
+                                                   \GTS@Nil \@nil 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRightSpace ...tring \GTS@Nil  \GTS@Nil 
+                                                  \@nil 
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Undefined control sequence.
+\GTS@RemoveRightSpace ...\GTS@Nil  \GTS@Nil \@nil 
+                                                  
+l.19 \end{align}
+                
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.19 \end{align}
+                
+I'm guessing that you meant to end an alignment here.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing { inserted.
+<inserted text> 
+                {
+l.19 \end{align}
+                
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing { inserted.
+<inserted text> 
+                {
+l.19 \end{align}
+                
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra }, or forgotten $.
+<recently read> }
+                 
+l.19 \end{align}
+                
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing } inserted.
+<inserted text> 
+                }
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.19 \end{align}
+                
+Things are pretty mixed up, but I think the worst is over.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...nAnchorHref {section*.2}University &
+                                                  of& Bridgeport
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> ...chorHref {section*.2}University &of&
+                                                   Bridgeport
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> Schedule &
+                     Change& Request
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> Schedule &Change&
+                             Request
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> This Form Must Be Used To Effect &
+                                             ALL& Change Action To Student's...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced alignment tab character &.
+<argument> This Form Must Be Used To Effect &ALL&
+                                                  Change Action To Student's...
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced \cr.
+\math@cr@@@ ->\cr 
+                  
+l.19 \end{align}
+                
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced \noalign.
+\math@cr@@ ... \iffalse }\fi \math@cr@@@ \noalign 
+                                                  {\vskip #1\relax }
+l.19 \end{align}
+                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Misplaced \noalign.
+\black@ #1->\noalign 
+                     {\ifdim #1>\displaywidth \dimen@ \prevdepth \nointerlin...
+l.19 \end{align}
+                
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+
+Overfull \hbox (193.30792pt too wide) detected at line 19
+[]
+ []
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Too many }'s.
+\endalign ->\math@cr \black@ \totwidth@ \egroup 
+                                                \ifingather@ \restorealignst...
+l.19 \end{align}
+                
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: LaTeX Error: \begin{document} ended by \end{align}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \end{align}
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \end{align}
+                
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.19 \end{align}
+                
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex:19: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.19 \end{align}
+                
+Things are pretty mixed up, but I think the worst is over.
+
+<UB_Logo.png, id=3, 1204.5pt x 1122.1925pt>
+File: UB_Logo.png Graphic file (type png)
+<use UB_Logo.png>
+Package pdftex.def Info: UB_Logo.png  used on input line 20.
+(pdftex.def)             Requested size: 96.36197pt x 89.77722pt.
+[1
+
+{C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./UB_Logo.png>] (Drop.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `Drop.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Drop.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9764 strings out of 478338
- 153199 string characters out of 2836700
- 446340 words of memory out of 3000000
- 28103 multiletter control sequences out of 15000+600000
- 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 9817 strings out of 478338
+ 153968 string characters out of 2836700
+ 452300 words of memory out of 3000000
+ 28137 multiletter control sequences out of 15000+600000
+ 472607 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,1n,77p,291b,107s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-No pages of output.
+ 72i,10n,77p,291b,432s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Drop.pdf (1 page, 219109 bytes).
 PDF statistics:
- 2 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
