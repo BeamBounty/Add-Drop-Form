@@ -4,6 +4,8 @@
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage[top =2cm, left =2cm, right =2cm, bottom =2cm]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
 % \title{University of Bridgeport}
 % \author{Schedule Change Request}
 
@@ -46,6 +48,116 @@
 \begin{tabular}{l | l}
     \ChoiceMenu[combo,height =0.5cm, width =5.9cm]{\Large Status:}{Full-Time, Part-Time} \hspace{0.0cm} & 
     \ChoiceMenu[combo,height =0.5cm, width =4.8cm]{\Large Graduate Level:}{Undergraduate, Graduate} 
+\end{tabular}
+
+\vspace{0.5cm} \hspace{0.05in}
+\framebox(4.23in,1.0in)[l]{{\textbf{\LARGE \space ADD}}} % ADD Section
+
+\vspace{0.05in}\hspace{0.05in}
+\begin{tabular}{| m{1.0cm} | m{3.0cm} | m{1.0cm} | m{1.54cm} | m{2.0cm}|} % Item #, Course ID#, Section, etc. table
+    \hline
+    Item No. & Department Course No. & Section & Sem Hrs. & Instructor Signature \\
+    \hline
+    \vspace{0.08cm}\TextField[name=1, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=2, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=3, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=4, height =0.5cm, width =1.5cm]{} &
+    \\    
+    \space 
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=5, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=6, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=7, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=8, height =0.5cm, width =1.5cm]{} &
+    \\
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=9, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=10, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=11, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=12, height =0.5cm, width =1.5cm]{} &
+    \\
+
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=13, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=14, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=15, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=16, height =0.5cm, width =1.5cm]{} &
+    \\
+
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=17, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=18, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=19, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=20, height =0.5cm, width =1.5cm]{} &
+    \\
+
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=21, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=22, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=23, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=24, height =0.5cm, width =1.5cm]{} &
+    \\    
+    \hline
+
+
+\end{tabular}
+
+\vspace{0.05in} \hspace{0.05in}  % Spacing betwen boxes
+\framebox(4.23in,1.0in)[l]{{\textbf{\LARGE \space DROP}}} % DROP Section
+
+\vspace{0.05in} \hspace{0.05in} 
+\begin{tabular}{| m{1.0cm} | m{3.0cm} | m{1.0cm} | m{1.54cm} |} % Item #, Course ID#, Section, etc. table
+    \hline
+    Item No. & Department Course No. & Section & Sem Hrs. \\
+    \hline
+    \vspace{0.08cm}\TextField[name=1, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=2, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=3, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=4, height =0.5cm, width =1.5cm]{} \\
+    \space 
+    
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=5, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=6, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=7, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=8, height =0.5cm, width =1.5cm]{} \\
+
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=9, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=10, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=11, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=12, height =0.5cm, width =1.5cm]{} \\
+    
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=13, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=14, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=15, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=16, height =0.5cm, width =1.5cm]{} \\
+    
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=17, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=18, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=19, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=20, height =0.5cm, width =1.5cm]{} \\
+    
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=21, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=22, height =0.5cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=23, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=24, height =0.5cm, width =1.5cm]{} \\
+    
+    \hline
+
 \end{tabular}
 
 

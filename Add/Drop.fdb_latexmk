@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1661813586 "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" "Drop.pdf" "Drop" 1661813588
-  "C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1661474870 163665 8c78d4af17c2f88b50ccca570956e960 ""
+["pdflatex"] 1662474545 "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" "Drop.pdf" "Drop" 1662474547
+  "C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1662069982 163665 8c78d4af17c2f88b50ccca570956e960 ""
   "C:/Users/geo71/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1661470306 10329961 2091bfe536ed5b6f75335f820acf3e7c ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233955454 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -9,6 +9,7 @@
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233955454 908 2921f8a10601f252058503cc6570e581 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233955454 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233955454 940 228d6584342e91276bf566bcf9716b83 ""
+  "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
@@ -68,12 +69,14 @@
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/letltxmacro/letltxmacro.sty" 1575403136 5766 13a9e8766c47f30327caf893ece86ac8 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1636713860 12694 6c23725d50ab9d1e2d3ce482c58ffcf3 ""
+  "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1636713860 7147 5ac8a9ef36411064b1a501137af0fa54 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Drop.aux" 1661813588 801 b66dd4fab67499df973824948d15a99e "pdflatex"
+  "Drop.aux" 1662474546 2145 cdc06854d4255612122c81a7dfe17221 "pdflatex"
   "Drop.out" 0 -1 0 "pdflatex"
-  "Drop.tex" 1661813586 1570 6303523e769480740c70dc8bd76afbe6 ""
+  "Drop.tex" 1662474542 6217 8d2868765cc5355bc63db0d43a738db8 ""
   "UB_Logo.png" 1661804791 199475 8a3460ad0ea40d4b27d54871d7aed2c6 ""
-  "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" 1661813586 1570 6303523e769480740c70dc8bd76afbe6 ""
+  "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" 1662474542 6217 8d2868765cc5355bc63db0d43a738db8 ""
   (generated)
   "Drop.aux"
   "Drop.log"
