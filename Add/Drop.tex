@@ -6,102 +6,104 @@
 \usepackage[top =2cm, left =2cm, right =2cm, bottom =2cm]{geometry}
 \usepackage{array}
 \usepackage{tabularx}
+\usepackage{minibox} % Used for Signature Box
 % \title{University of Bridgeport}
 % \author{Schedule Change Request}
 
 \begin{document}
 
 \begin{center}
-    \hspace{0.5in}
-    \emph{Completed Form Must Be Submitted To Registrar's Office For Processing}
+    \hspace{1cm}\vspace{-0.3cm}\emph{Completed Form Must Be Submitted To Registrar's Office For Processing}
     \section*{University of Bridgeport}
     \underline{Schedule Change Request} \vspace{0.2cm} \\ 
-    \hspace{2.0cm}
-    \emph{This Form Must Be Used To Effect ALL Change Action To Student's Schedule}
+    \vspace{0.2cm}\hspace{1.0cm}\emph{This Form Must Be Used To Effect ALL Change Action To Student's Schedule}
 \end{center}
-\vspace{-3.5cm} \includegraphics[scale=0.08]{UB_Logo}
+\vspace{-4.5cm} \hspace{-1cm} \includegraphics[scale=0.09]{UB_Logo}
 
 \vspace{1.0cm}
 
 \begin{tabular}{l | l}
     
-    \TextField[height =0.5cm, width =5.0cm]{\Large Student ID:} &
-    \TextField[height =0.5cm, width =5.0cm]{\Large Semester/Year:} \\
+    \TextField[height =0.6cm, width =5.0cm]{\Large Student ID:} &
+    \TextField[height =0.6cm, width =5.0cm]{\Large Semester/Year:} \\
 
-    \TextField[height =0.5cm, width =5.0cm]{\Large Last Name:} &
-    \TextField[height =0.5cm, width =5.0cm]{\Large First Name: \hspace{0.5cm}} \\ 
+    \TextField[height =0.6cm, width =5.0cm]{\Large Last Name:} &
+    \TextField[height =0.6cm, width =5.0cm]{\Large First Name: \hspace{0.5cm}} \\ 
 
 \end{tabular}
 
-\vspace{0.5cm}
+\vspace{0.6cm}
 
 \begin{tabular}{l | l | l} 
 
-    \TextField[height =0.5cm, width =4.0cm]{\Large Address:} & 
-    \TextField[height =0.5cm, width =3.0cm]{\Large City \& State:} &
-    \TextField[height =0.5cm, width =2.5cm]{\Large Zip:} 
+    \TextField[height =0.6cm, width =4.0cm]{\Large Address:} & 
+    \TextField[height =0.6cm, width =3.0cm]{\Large City \& State:} &
+    \TextField[height =0.6cm, width =2.5cm]{\Large Zip:} 
 
 \end{tabular}
 
-\vspace{0.5cm}
+\vspace{0.6cm}
 
 \begin{tabular}{l | l}
-    \ChoiceMenu[combo,height =0.5cm, width =5.9cm]{\Large Status:}{Full-Time, Part-Time} \hspace{0.0cm} & 
-    \ChoiceMenu[combo,height =0.5cm, width =4.8cm]{\Large Graduate Level:}{Undergraduate, Graduate} 
+    \ChoiceMenu[combo,height =0.6cm, width =5.9cm]{\Large Status:}{Full-Time, Part-Time} \hspace{0.0cm} & 
+    \ChoiceMenu[combo,height =0.6cm, width =4.8cm]{\Large Graduate Level:}{Undergraduate, Graduate} 
 \end{tabular}
 
-\vspace{0.5cm} \hspace{0.05in}
-\framebox(4.24in,0.5in)[l]{{\textbf{\LARGE \space ADD}}} % ADD Section
+\vspace{0.6cm} \hspace{0.05in}
+\framebox(4.24in,0.6in)[l]{{\textbf{\LARGE \space ADD}}} % ADD Section
 
 \vspace{0.05in}\hspace{0.05in}
 \begin{tabular}{| m{1.0cm} | m{3.0cm} | m{1.0cm} | m{1.54cm} | m{2.0cm}|} % Item #, Course ID#, Section, etc. table
     \hline
     Item No. & Department Course No. & Section & Sem Hrs. & Instructor Signature \\
     \hline
-    \vspace{0.08cm}\TextField[name=1, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=2, height =0.5cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=3, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=4, height =0.5cm, width =1.5cm]{} &
-    \\    
+    \vspace{0.08cm}\TextField[name=1, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=2, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=3, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=4, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.08cm}\TextField[name=4.1, height =0.6cm, width =2cm]{} \\
+    
     \space 
     \hline
     
-    \vspace{0.08cm}\TextField[name=5, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=6, height =0.5cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=7, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=8, height =0.5cm, width =1.5cm]{} &
-    \\
-    \hline
-    
-    \vspace{0.08cm}\TextField[name=9, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=10, height =0.5cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=11, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=12, height =0.5cm, width =1.5cm]{} &
-    \\
+    \vspace{0.08cm}\TextField[name=5, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=6, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=7, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=8, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.08cm}\TextField[name=8.1, height =0.6cm, width =2cm]{} \\
 
     \hline
     
-    \vspace{0.08cm}\TextField[name=13, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=14, height =0.5cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=15, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=16, height =0.5cm, width =1.5cm]{} &
-    \\
+    \vspace{0.08cm}\TextField[name=9, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=10, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=11, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=12, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.08cm}\TextField[name=12.1, height =0.6cm, width =2cm]{} \\
+    
+    \hline
+    
+    \vspace{0.08cm}\TextField[name=13, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=14, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=15, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=16, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.08cm}\TextField[name=16.1, height =0.6cm, width =2cm]{} \\
 
     \hline
     
-    \vspace{0.08cm}\TextField[name=17, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=18, height =0.5cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=19, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=20, height =0.5cm, width =1.5cm]{} &
-    \\
+    \vspace{0.08cm}\TextField[name=17, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=18, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=19, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=20, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.08cm}\TextField[name=20.1, height =0.6cm, width =2cm]{} \\
 
     \hline
     
-    \vspace{0.08cm}\TextField[name=21, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=22, height =0.5cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=23, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=24, height =0.5cm, width =1.5cm]{} &
-    \\    
+    \vspace{0.08cm}\TextField[name=21, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.08cm}\TextField[name=22, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=23, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.08cm}\TextField[name=24, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.08cm}\TextField[name=24.1, height =0.6cm, width =2cm]{} \\
+    
     \hline
 
 
@@ -160,8 +162,37 @@
 
 \end{tabular}
 
-\vspace{-5.3in} \hspace{4.5in}
-\framebox(2.15in,5.3in)[l]{{\textbf{\LARGE \space ADD}}} % ADD Section
+\vspace{-5.64in} \hspace{4.5in}
+\framebox(2.15in,5.61in)[l] % Width, Height
+{
+    \minibox
+    {
+     \vspace{0.5cm}\\ % Top Indentation for Signature Boxes 
+     \textbf{\Large Advisor Signature:}\\
+     \vspace{1cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
+     \hspace{-2.04in}\TextField[name=adSig, height =0.1cm, width=2.0in]{}\\ 
+     \textbf{\large Date:}\\
+     \vspace{1cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
+     \hspace{-1.04in}\TextField[name=adDate, height =0.1cm, width=1.0in]{}\\
+
+     
+     \textbf{\Large Student Signature:}\\
+     \vspace{1cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
+     \hspace{-2.04in}\TextField[name=stSig, height =0.1cm, width=2.0in]{}\\
+     \textbf{\large Date:}\\
+     \vspace{1cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
+     \hspace{-1.04in}\TextField[name=stDate, height =0.1cm, width=1.0in]{}\\
+
+     \textbf{\Large Registrar Signature:}\\
+     \vspace{1cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
+     \hspace{-2.04in}\TextField[name=rgSig, height =0.1cm, width=2.0in]{}\\
+     \textbf{\large Date:}\\
+     \vspace{1cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
+     \hspace{-1.04in}\TextField[name=rgDate, height =0.1cm, width=1.0in]{}\\
+     }
+}
+
+% ADD Section
 
 
 \end{document}

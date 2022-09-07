@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  6 SEP 2022 11:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  7 SEP 2022 17:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -257,32 +257,38 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@delta=\dimen168
 \TX@cols=\count285
 \TX@ftn=\toks24
-) (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+) (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/minibox\minibox.sty (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-07-04 L3 programming layer (loader) 
+ (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count286
 \l__pdf_internal_box=\box55
+))
+Package: minibox 2013/06/21 v0.2a Another type of box.
+\l_minibox_rule_dim=\dimen169
+\l_minibox_pad_dim=\dimen170
 ) (Drop.aux)
 \openout1 = `Drop.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-Package hyperref Info: Link coloring OFF on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+Package hyperref Info: Link coloring OFF on input line 13.
  (Drop.out) (Drop.out)
 \@outlinefile=\write3
 \openout3 = `Drop.out'.
@@ -290,13 +296,13 @@ Package hyperref Info: Link coloring OFF on input line 12.
  (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count287
-\scratchdimen=\dimen169
+\scratchdimen=\dimen171
 \scratchbox=\box56
 \nofMPsegments=\count288
 \nofMParguments=\count289
 \everyMPshowfont=\toks25
 \MPscratchCnt=\count290
-\MPscratchDim=\dimen170
+\MPscratchDim=\dimen172
 \MPnumerator=\count291
 \makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks26
@@ -351,45 +357,45 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <UB_Logo.png, id=3, 1204.5pt x 1122.1925pt>
 File: UB_Logo.png Graphic file (type png)
 <use UB_Logo.png>
-Package pdftex.def Info: UB_Logo.png  used on input line 22.
-(pdftex.def)             Requested size: 96.36197pt x 89.77722pt.
+Package pdftex.def Info: UB_Logo.png  used on input line 21.
+(pdftex.def)             Requested size: 108.40031pt x 100.99297pt.
 
-Overfull \hbox (1.52626pt too wide) in paragraph at lines 26--35
+Overfull \hbox (1.52626pt too wide) in paragraph at lines 25--34
 [][] 
  []
 
 
-Overfull \hbox (0.75824pt too wide) in paragraph at lines 38--45
+Overfull \hbox (0.75824pt too wide) in paragraph at lines 37--44
 [][] 
  []
 
 
-Overfull \hbox (1.37677pt too wide) in paragraph at lines 48--52
+Overfull \hbox (1.37677pt too wide) in paragraph at lines 47--51
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 []|\OT1/cmr/m/n/10 Item
  []
 
 
-Overfull \hbox (3.21399pt too wide) in paragraph at lines 59--59
+Overfull \hbox (3.21399pt too wide) in paragraph at lines 58--58
 []|\OT1/cmr/m/n/10 Section| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 []|\OT1/cmr/m/n/10 Instructor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--116
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 []|\OT1/cmr/m/n/10 Item
  []
 
 
-Overfull \hbox (3.21399pt too wide) in paragraph at lines 116--116
+Overfull \hbox (3.21399pt too wide) in paragraph at lines 118--118
 []|\OT1/cmr/m/n/10 Section| 
  []
 
@@ -400,17 +406,17 @@ Package rerunfilecheck Info: File `Drop.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9951 strings out of 478338
- 156284 string characters out of 2836700
- 484372 words of memory out of 3000000
- 28262 multiletter control sequences out of 15000+600000
- 472524 words of font info for 41 fonts, out of 8000000 for 9000
+ 10021 strings out of 478338
+ 158236 string characters out of 2836700
+ 489745 words of memory out of 3000000
+ 28326 multiletter control sequences out of 15000+600000
+ 472831 words of font info for 42 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,10n,77p,291b,544s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,13n,77p,291b,544s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Drop.pdf (1 page, 240482 bytes).
+Output written on Drop.pdf (1 page, 244355 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
