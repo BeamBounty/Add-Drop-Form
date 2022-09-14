@@ -7,6 +7,7 @@
 \usepackage{array}
 \usepackage{tabularx}
 \usepackage{minibox} % Used for Signature Box
+\usepackage{hyperref} % For submit button
 % \title{University of Bridgeport}
 % \author{Schedule Change Request}
 
@@ -34,15 +35,15 @@
 
 \vspace{0.6cm}
 
-\begin{tabular}{l | l | l} 
+% \begin{tabular}{l | l | l} 
 
-    \TextField[height =0.6cm, width =4.0cm]{\Large Address:} & 
-    \TextField[height =0.6cm, width =3.0cm]{\Large City \& State:} &
-    \TextField[height =0.6cm, width =2.5cm]{\Large Zip:} 
+%     \TextField[height =0.6cm, width =4.0cm]{\Large Address:} & 
+%     \TextField[height =0.6cm, width =3.0cm]{\Large City \& State:} &
+%     \TextField[height =0.6cm, width =2.5cm]{\Large Zip:} 
 
-\end{tabular}
+% \end{tabular}
 
-\vspace{0.6cm}
+% \vspace{0.6cm}
 
 \begin{tabular}{l | l}
     \ChoiceMenu[combo,height =0.6cm, width =5.9cm]{\Large Status:}{Full-Time, Part-Time} \hspace{0.0cm} & 
@@ -97,15 +98,6 @@
     \vspace{0.08cm}\TextField[name=20.1, height =0.6cm, width =2cm]{} \\
 
     \hline
-    
-    \vspace{0.08cm}\TextField[name=21, height =0.6cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=22, height =0.6cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=23, height =0.6cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=24, height =0.6cm, width =1.5cm]{} &
-    \vspace{0.08cm}\TextField[name=24.1, height =0.6cm, width =2cm]{} \\
-    
-    \hline
-
 
 \end{tabular}
 
@@ -152,18 +144,11 @@
     \vspace{0.08cm}\TextField[name=20.2, height =0.5cm, width =1.5cm]{} \\
     
     \hline
-    
-    \vspace{0.08cm}\TextField[name=21.2, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=22.2, height =0.5cm, width =5.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=23.2, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=24.2, height =0.5cm, width =1.5cm]{} \\
-    
-    \hline
 
 \end{tabular}
 
-\vspace{-5.64in} \hspace{4.5in}
-\framebox(2.15in,5.61in)[l] % Width, Height
+\vspace{-5.04in} \hspace{4.5in}
+\framebox(2.15in,5.02in)[l] % Width, Height
 {
     \minibox
     {
@@ -192,7 +177,12 @@
      }
 }
 
-% ADD Section
+\vspace{0.6cm}\hspace{0.2cm}{\raggedright \LARGE Reason for change:}
+\vspace{0.6cm}\hspace{6.6cm}{\raggedright \LARGE Submit via email:}\\
+\vspace{0.5cm}\hspace{0.7cm}\rule[-0.2in]{4.4in}{0.45mm} \\ % Raise, Width, Thickness
+\vspace{0.5cm}\hspace{0.7cm}\rule[-0.2in]{4.4in}{0.45mm} \\ % Raise, Width, Thickness
+\vspace{0.5cm}\hspace{0.7cm}\rule[-0.2in]{4.4in}{0.45mm} \\ % Raise, Width, Thickness
+
 
 
 \end{document}

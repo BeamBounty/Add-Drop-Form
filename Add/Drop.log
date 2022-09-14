@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  7 SEP 2022 18:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  13 SEP 2022 11:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -270,25 +270,25 @@ Package: minibox 2013/06/21 v0.2a Another type of box.
 ) (Drop.aux)
 \openout1 = `Drop.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-Package hyperref Info: Link coloring OFF on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+Package hyperref Info: Link coloring OFF on input line 14.
  (Drop.out) (Drop.out)
 \@outlinefile=\write3
 \openout3 = `Drop.out'.
@@ -346,77 +346,77 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
 (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
  (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <UB_Logo.png, id=3, 1204.5pt x 1122.1925pt>
 File: UB_Logo.png Graphic file (type png)
 <use UB_Logo.png>
-Package pdftex.def Info: UB_Logo.png  used on input line 21.
+Package pdftex.def Info: UB_Logo.png  used on input line 22.
 (pdftex.def)             Requested size: 108.40031pt x 100.99297pt.
 
-Overfull \hbox (1.52626pt too wide) in paragraph at lines 25--34
+Overfull \hbox (1.52626pt too wide) in paragraph at lines 26--35
 [][] 
  []
 
 
-Overfull \hbox (0.75824pt too wide) in paragraph at lines 37--44
+Overfull \hbox (1.37677pt too wide) in paragraph at lines 48--52
 [][] 
  []
 
 
-Overfull \hbox (1.37677pt too wide) in paragraph at lines 47--51
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 58--58
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 []|\OT1/cmr/m/n/10 Item
  []
 
 
-Overfull \hbox (3.21399pt too wide) in paragraph at lines 58--58
+Overfull \hbox (3.21399pt too wide) in paragraph at lines 59--59
 []|\OT1/cmr/m/n/10 Section| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 []|\OT1/cmr/m/n/10 Instructor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
 []|\OT1/cmr/m/n/10 Item
  []
 
 
-Overfull \hbox (3.21399pt too wide) in paragraph at lines 118--118
+Overfull \hbox (3.21399pt too wide) in paragraph at lines 110--110
 []|\OT1/cmr/m/n/10 Section| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
+
  []
 
 [1
 
-{C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./UB_Logo.png>] (Drop.aux)
+{C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./UB_Logo.png>] [2] (Drop.aux)
 Package rerunfilecheck Info: File `Drop.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10021 strings out of 478338
- 158236 string characters out of 2836700
- 489745 words of memory out of 3000000
- 28326 multiletter control sequences out of 15000+600000
- 472831 words of font info for 42 fonts, out of 8000000 for 9000
+ 10024 strings out of 478338
+ 158264 string characters out of 2836700
+ 484745 words of memory out of 3000000
+ 28327 multiletter control sequences out of 15000+600000
+ 473130 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,13n,77p,291b,544s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Drop.pdf (1 page, 244595 bytes).
+<C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on Drop.pdf (2 pages, 253321 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 101 PDF objects out of 1000 (max. 8388607)
+ 4 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
