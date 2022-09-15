@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  15 SEP 2022 16:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  15 SEP 2022 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,6 +395,31 @@ Overfull \hbox (3.21399pt too wide) in paragraph at lines 110--110
  []
 
 
+Overfull \hbox (0.85355pt too wide) in paragraph at lines 115--116
+[]|[][][][]| 
+ []
+
+
+Overfull \hbox (0.85355pt too wide) in paragraph at lines 123--124
+[]|[][][][]| 
+ []
+
+
+Overfull \hbox (0.85355pt too wide) in paragraph at lines 130--131
+[]|[][][][]| 
+ []
+
+
+Overfull \hbox (0.85355pt too wide) in paragraph at lines 137--138
+[]|[][][][]| 
+ []
+
+
+Overfull \hbox (0.85355pt too wide) in paragraph at lines 144--145
+[]|[][][][]| 
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 180--188
 
  []
@@ -414,7 +439,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,13n,77p,291b,544s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Drop.pdf (1 page, 251916 bytes).
+Output written on Drop.pdf (1 page, 251911 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
