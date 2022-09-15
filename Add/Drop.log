@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  13 SEP 2022 11:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  15 SEP 2022 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -395,28 +395,28 @@ Overfull \hbox (3.21399pt too wide) in paragraph at lines 110--110
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--185
+Underfull \hbox (badness 10000) in paragraph at lines 180--188
 
  []
 
 [1
 
-{C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./UB_Logo.png>] [2] (Drop.aux)
+{C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./UB_Logo.png>] (Drop.aux)
 Package rerunfilecheck Info: File `Drop.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10024 strings out of 478338
- 158264 string characters out of 2836700
- 484745 words of memory out of 3000000
+ 10023 strings out of 478338
+ 158258 string characters out of 2836700
+ 485745 words of memory out of 3000000
  28327 multiletter control sequences out of 15000+600000
  473130 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,13n,77p,291b,544s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Drop.pdf (2 pages, 253321 bytes).
+Output written on Drop.pdf (1 page, 251916 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
