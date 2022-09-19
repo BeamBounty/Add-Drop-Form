@@ -26,11 +26,11 @@
 
 \begin{tabular}{l | l}
     
-    \TextField[height =0.6cm, width =5.0cm]{\Large Student ID:} &
-    \TextField[height =0.6cm, width =5.0cm]{\Large Semester/Year:} \\
+    \TextField[bordercolor= , height =0.6cm, width =5.0cm]{\Large Student ID:} &
+    \TextField[bordercolor= , height =0.6cm, width =5.0cm]{\Large Semester/Year:} \\
 
-    \TextField[height =0.6cm, width =5.0cm]{\Large Last Name:} &
-    \TextField[height =0.6cm, width =5.0cm]{\Large First Name: \hspace{0.5cm}} \\ 
+    \TextField[bordercolor= , height =0.6cm, width =5.0cm]{\Large Last Name:} &
+    \TextField[bordercolor= , height =0.6cm, width =5.0cm]{\Large First Name: \hspace{0.5cm}} \\ 
 
 \end{tabular}
 
@@ -47,141 +47,124 @@
 % \vspace{0.6cm}
 
 \begin{tabular}{l | l}
-    \ChoiceMenu[combo,height =0.6cm, width =5.9cm]{\Large Status:}{Full-Time, Part-Time} \hspace{0.0cm} & 
-    \ChoiceMenu[combo,height =0.6cm, width =4.8cm]{\Large Graduate Level:}{Undergraduate, Graduate} 
+    \ChoiceMenu[bordercolor =, combo,height =0.6cm, width =5.9cm]{\Large Status:}{Full-Time, Part-Time} \hspace{0.0cm} & 
+    \ChoiceMenu[bordercolor =, combo,height =0.6cm, width =4.8cm]{\Large Graduate Level:}{Undergraduate, Graduate} 
 \end{tabular}
 
 \vspace{0.6cm} \hspace{0.05in}
 \framebox(4.24in,0.6in)[l]{{\textbf{\LARGE \space ADD}}} % ADD Section
 
 \vspace{0.05in}\hspace{0.05in}
-\begin{tabular}{| m{1.0cm} | m{3.0cm} | m{1.0cm} | m{1.54cm} | m{2.0cm}|} % Item #, Course ID#, Section, etc. table
-    \hline
-    Item No. & Department Course No. & Section & Sem Hrs. & Instructor Signature \\
-    \hline
-    \vspace{0.08cm}\TextField[name=1, height =0.6cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=2, height =0.6cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=3, height =0.6cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=4, height =0.6cm, width =1.5cm]{} &
-    \vspace{0.08cm}\TextField[name=4.1, height =0.6cm, width =2cm]{} \\
+\begin{tabular}{m{1.0cm} m{3.0cm} m{1.0cm} m{1.54cm} m{2.0cm}} % Item #, Course ID#, Section, etc. table
+    Item No. & Department Course No. & Section & \hspace{1mm}Sem Hrs. & Instructor Signature \\
+
+    \vspace{0.1cm}\TextField[bordercolor=, name=1, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=2, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=3, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=4, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=4.1, height =0.6cm, width =2cm]{} \\
     
     \space 
-    \hline
     
-    \vspace{0.08cm}\TextField[name=5, height =0.6cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=6, height =0.6cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=7, height =0.6cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=8, height =0.6cm, width =1.5cm]{} &
-    \vspace{0.08cm}\TextField[name=8.1, height =0.6cm, width =2cm]{} \\
+    \vspace{0.1cm}\TextField[bordercolor=, name=5, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=6, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=7, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=8, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=8.1, height =0.6cm, width =2cm]{} \\
 
-    \hline
     
-    \vspace{0.08cm}\TextField[name=9, height =0.6cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=10, height =0.6cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=11, height =0.6cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=12, height =0.6cm, width =1.5cm]{} &
-    \vspace{0.08cm}\TextField[name=12.1, height =0.6cm, width =2cm]{} \\
+    \vspace{0.1cm}\TextField[bordercolor=, name=9, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=10, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=11, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=12, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=12.1, height =0.6cm, width =2cm]{} \\
     
-    \hline
     
-    \vspace{0.08cm}\TextField[name=13, height =0.6cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=14, height =0.6cm, width =3.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=15, height =0.6cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=16, height =0.6cm, width =1.5cm]{} &
-    \vspace{0.08cm}\TextField[name=16.1, height =0.6cm, width =2cm]{} \\
+    \vspace{0.1cm}\TextField[bordercolor=, name=13, height =0.6cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=14, height =0.6cm, width =3.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=15, height =0.6cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=16, height =0.6cm, width =1.5cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=16.1, height =0.6cm, width =2cm]{} \\
 
-    \hline
 \end{tabular}
 
 
-\vspace{0.06cm}\hspace{0.05in} \begin{tabular}{|m{0.7in}|m{3.2in}|}
-    \specialrule{.4pt}{2pt}{0pt}
-    Total Sem. Hrs. & \vspace{0.08cm}\TextField[name=thADD, height =0.6cm, width =8.15cm]{}\vspace{0.08cm}\\
-    \specialrule{.8pt}{0pt}{2pt}
+\vspace{0.2cm}\hspace{0cm} \begin{tabular}{m{1in} m{3.2in}}
+    Total Sem. Hrs. & \TextField[bordercolor=, name=thADD2, height =0.5cm, width =1.6cm]{}\vspace{0.08cm}\\
 \end{tabular}
 
 \vspace{0.05in} \hspace{0.05in}  % Spacing betwen boxes
 \framebox(4.24in,0.5in)[l]{{\textbf{\LARGE \space DROP}}} % DROP Section
 
 \vspace{0.05in} \hspace{0.05in} 
-\begin{tabular}{| m{1.0cm} | m{5.0cm} | m{1.0cm} | m{2.0cm} |} % Item #, Course ID#, Section, etc. table
-    \hline
-    Item No. & Department Course No. & Section & Sem Hrs. \\
-    \hline
-    \vspace{0.08cm}\TextField[name=1.2, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=2.2, height =0.5cm, width =5.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=3.2, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=4.2, height =0.5cm, width =2.03cm]{} \\
+\begin{tabular}{ m{1.0cm}  m{5.0cm}  m{1.0cm}  m{2.0cm} } % Item #, Course ID#, Section, etc. table
+    Item No. & \hspace{7mm}Department Course No. & Section & \hspace{2mm} Sem Hrs. \\
+
+    \vspace{0.1cm}\TextField[bordercolor=, name=1.2, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=2.2, height =0.5cm, width =5.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=3.2, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=4.2, height =0.5cm, width =2.03cm]{} \\
     \space 
-    
-    \hline
-    
-    \vspace{0.08cm}\TextField[name=5.2, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=6.2, height =0.5cm, width =5.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=7.2, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=8.2, height =0.5cm, width =2.03cm]{} \\
 
-    \hline
     
-    \vspace{0.08cm}\TextField[name=9.2, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=10.2, height =0.5cm, width =5.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=11.2, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=12.2, height =0.5cm, width =2.03cm]{} \\
+    \vspace{0.1cm}\TextField[bordercolor=, name=5.2, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=6.2, height =0.5cm, width =5.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=7.2, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=8.2, height =0.5cm, width =2.03cm]{} \\
     
-    \hline
-    
-    \vspace{0.08cm}\TextField[name=13.2, height =0.5cm, width =1.0cm]{} &
-    \vspace{0.08cm}\TextField[name=14.2, height =0.5cm, width =5.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=15.2, height =0.5cm, width =1.0cm]{} & 
-    \vspace{0.08cm}\TextField[name=16.2, height =0.5cm, width =2.03cm]{} \\
-    
-    \hline
+    \vspace{0.1cm}\TextField[bordercolor=, name=9.2, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=10.2, height =0.5cm, width =5.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=11.2, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=12.2, height =0.5cm, width =2.03cm]{} \\
 
+    
+    \vspace{0.1cm}\TextField[bordercolor=, name=13.2, height =0.5cm, width =1.0cm]{} &
+    \vspace{0.1cm}\TextField[bordercolor=, name=14.2, height =0.5cm, width =5.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=15.2, height =0.5cm, width =1.0cm]{} & 
+    \vspace{0.1cm}\TextField[bordercolor=, name=16.2, height =0.5cm, width =2.03cm]{} \\
 
 \end{tabular}
 
-\vspace{0.06cm}\hspace{0.05in} \begin{tabular}{|m{0.7in}|m{3.2in}|}
-    \specialrule{.4pt}{2pt}{0pt}
-    Total Sem. Hrs. & \vspace{0.08cm}\TextField[name=thADD2, height =0.6cm, width =8.15cm]{}\vspace{0.08cm}\\
-    \specialrule{.8pt}{0pt}{2pt}
+\vspace{0.2cm}\hspace{0cm} \begin{tabular}{m{1in} m{3.2in}}
+    Total Sem. Hrs. & \TextField[bordercolor=, name=thDROP2, height =0.5cm, width =1.6cm]{}\vspace{0.08cm}\\
 \end{tabular}
 
-\vspace{-5.37in} \hspace{4.5in}
-\framebox(2.15in,5.33in)[l] % Width, Height
+\vspace{-5.153in} \hspace{4.5in}
+\framebox(2.15in,5.1in)[l] % Width, Height
 {
     \minibox
     {
      \vspace{1.1cm}\\ % Top Indentation for Signature Boxes 
-     \textbf{\Large Advisor Signature:}\\
-     \vspace{1cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
-     \hspace{-2.04in}\TextField[name=adSig, height =0.1cm, width=2.0in]{}\\ 
+     \vspace{0.2cm}\textbf{\Large Advisor Signature:}\\
+     \vspace{0.5cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
+     \hspace{-2.04in}\TextField[bordercolor=, name=adSig, height =0.1cm, width=2.0in]{}\\ 
      \textbf{\large Date:}\\
-     \vspace{1cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
-     \hspace{-1.04in}\TextField[name=adDate, height =0.1cm, width=1.0in]{}\\
+     \vspace{1.4cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
+     \hspace{-1.04in}\TextField[bordercolor=, name=adDate, height =0.1cm, width=1.0in]{}\\
 
      
-     \textbf{\Large Student Signature:}\\
-     \vspace{1cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
-     \hspace{-2.04in}\TextField[name=stSig, height =0.1cm, width=2.0in]{}\\
+     \vspace{0.2cm}\textbf{\Large Student Signature:}\\
+     \vspace{0.5cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
+     \hspace{-2.04in}\TextField[bordercolor=, name=stSig, height =0.1cm, width=2.0in]{}\\
      \textbf{\large Date:}\\
-     \vspace{1cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
-     \hspace{-1.04in}\TextField[name=stDate, height =0.1cm, width=1.0in]{}\\
+     \vspace{1.4cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
+     \hspace{-1.04in}\TextField[bordercolor=, name=stDate, height =0.1cm, width=1.0in]{}\\
 
-     \textbf{\Large Registrar Signature:}\\
-     \vspace{1cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
-     \hspace{-2.04in}\TextField[name=rgSig, height =0.1cm, width=2.0in]{}\\
+     \vspace{0.2cm}\textbf{\Large Registrar Signature:}\\
+     \vspace{0.5cm}\rule[-0.2in]{2in}{0.45mm} % Raise, Width, Thickness
+     \hspace{-2.04in}\TextField[bordercolor=, name=rgSig, height =0.1cm, width=2.0in]{}\\
      \textbf{\large Date:}\\
-     \vspace{1.5cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
-     \hspace{-1.04in}\TextField[name=rgDate, height =0.1cm, width=1.0in]{}\\
+     \vspace{1.4cm}\rule[-0.2in]{1in}{0.45mm}  % Raise, Width, Thickness
+     \hspace{-1.04in}\TextField[bordercolor=, name=rgDate, height =0.1cm, width=1.0in]{}\\
     }
 }
 
 \vspace{0.6cm}\hspace{0.2cm}{\raggedright \LARGE Reason for change:} \\
 %\vspace{0.6cm}\hspace{6.6cm}{\raggedright \LARGE Submit via email:}\\
 \vspace{0.4cm}\hspace{0.7cm}\rule[-0.2in]{6.6in}{0.45mm} % Raise, Width, Thickness
-\hspace{-6.64in}\TextField[name=rfc1, height =0.1cm, width=6.60in]{}\\
+\hspace{-6.64in}\TextField[bordercolor=, name=rfc1, height =0.1cm, width=6.60in]{}\\
 \vspace{0.4cm}\hspace{0.7cm}\rule[-0.2in]{6.6in}{0.45mm}  % Raise, Width, Thickness
-\hspace{-6.64in}\TextField[name=rfc2, height =0.1cm, width=6.60in]{}\\
+\hspace{-6.64in}\TextField[bordercolor=, name=rfc2, height =0.1cm, width=6.60in]{}\\
 %\vspace{0.4cm}\hspace{0.7cm}\rule[-0.2in]{6.6in}{0.45mm} % Raise, Width, Thickness
 %\hspace{-6.64in}\TextField[name=rfc3, height =0.1cm, width=6.60in]{}\\
 
