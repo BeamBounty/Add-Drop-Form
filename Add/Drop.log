@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  19 SEP 2022 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  22 SEP 2022 18:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -286,28 +286,46 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count289
 \@lastruleclass=\count290
 \@thisrulewidth=\dimen183
-) (Drop.aux)
+) (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+ (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+ (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\x11nam.def
+File: x11nam.def 2022/06/12 v2.14 Predefined colors according to Unix/X11 (UK)
+)) (Drop.aux)
 \openout1 = `Drop.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-Package hyperref Info: Link coloring OFF on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+Package hyperref Info: Link coloring OFF on input line 16.
  (Drop.out) (Drop.out)
 \@outlinefile=\write3
 \openout3 = `Drop.out'.
@@ -327,7 +345,13 @@ Package hyperref Info: Link coloring OFF on input line 15.
 \everyMPtoPDFconversion=\toks26
 ) (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+ (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
  (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
@@ -365,76 +389,56 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 21.
 (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 21.
  (C:\Users\geo71\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <UB_Logo.png, id=3, 1204.5pt x 1122.1925pt>
 File: UB_Logo.png Graphic file (type png)
 <use UB_Logo.png>
-Package pdftex.def Info: UB_Logo.png  used on input line 23.
+Package pdftex.def Info: UB_Logo.png  used on input line 24.
 (pdftex.def)             Requested size: 108.40031pt x 100.99297pt.
 
-Overfull \hbox (1.52626pt too wide) in paragraph at lines 27--36
+Overfull \hbox (1.52626pt too wide) in paragraph at lines 28--37
 [][] 
  []
 
 
-Overfull \hbox (1.37677pt too wide) in paragraph at lines 49--53
+Overfull \hbox (1.37677pt too wide) in paragraph at lines 50--54
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]|\OT1/cmr/m/n/10 Item
- []
-
-
-Overfull \hbox (3.21399pt too wide) in paragraph at lines 59--59
+Overfull \hbox (3.21399pt too wide) in paragraph at lines 60--60
 []|\OT1/cmr/m/n/10 Section| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 []|\OT1/cmr/m/n/10 Instructor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
-[]|\OT1/cmr/m/n/10 Item
- []
-
-
-Overfull \hbox (3.21399pt too wide) in paragraph at lines 101--101
+Overfull \hbox (3.21399pt too wide) in paragraph at lines 106--106
 []|\OT1/cmr/m/n/10 Section| 
  []
 
 
-Overfull \hbox (0.85355pt too wide) in paragraph at lines 106--107
-[]|[][][][]| 
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
+
  []
 
 
-Overfull \hbox (0.85355pt too wide) in paragraph at lines 113--114
-[]|[][][][]| 
+Overfull \hbox (1.45708pt too wide) in paragraph at lines 173--174
+[] [][][][] 
  []
 
 
-Overfull \hbox (0.85355pt too wide) in paragraph at lines 118--119
-[]|[][][][]| 
- []
-
-
-Overfull \hbox (0.85355pt too wide) in paragraph at lines 124--125
-[]|[][][][]| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 162--170
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
@@ -445,17 +449,17 @@ Package rerunfilecheck Info: File `Drop.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10097 strings out of 478338
- 159586 string characters out of 2836700
- 482509 words of memory out of 3000000
- 28397 multiletter control sequences out of 15000+600000
+ 10937 strings out of 478338
+ 172284 string characters out of 2836700
+ 520257 words of memory out of 3000000
+ 29220 multiletter control sequences out of 15000+600000
  473130 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,77p,291b,556s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,13n,77p,291b,560s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Drop.pdf (1 page, 249301 bytes).
+Output written on Drop.pdf (1 page, 249135 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
