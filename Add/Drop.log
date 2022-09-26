@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  26 SEP 2022 11:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8) (preloaded format=pdflatex 2022.8.25)  26 SEP 2022 12:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -423,27 +423,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
  []
 
 
-Overfull \hbox (3.21399pt too wide) in paragraph at lines 106--106
+Overfull \hbox (3.21399pt too wide) in paragraph at lines 102--102
 []|\OT1/cmr/m/n/10 Section| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
 
-Overfull \hbox (1.45708pt too wide) in paragraph at lines 173--174
+Overfull \hbox (1.45708pt too wide) in paragraph at lines 167--168
 [] [][][][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 173--174
+Underfull \hbox (badness 10000) in paragraph at lines 167--168
 
  []
 
 
-Package hyperref Warning: Ignoring empty anchor on input line 175.
+Package hyperref Warning: Ignoring empty anchor on input line 169.
 
 [1
 
@@ -460,7 +460,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  72i,13n,77p,291b,560s stack positions out of 10000i,1000n,20000p,200000b,80000s
 <C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Drop.pdf (1 page, 261750 bytes).
+Output written on Drop.pdf (1 page, 261745 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

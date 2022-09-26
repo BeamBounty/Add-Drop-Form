@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1664207343 "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" "Drop.pdf" "Drop" 1664207346
+["pdflatex"] 1664208396 "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" "Drop.pdf" "Drop" 1664208400
   "C:/Users/geo71/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1663294154 171127 7d5b8f538153ac5f1e66fafea49bcbb3 ""
   "C:/Users/geo71/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1661470306 10329961 2091bfe536ed5b6f75335f820acf3e7c ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -90,11 +90,11 @@
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/x11nam.def" 1656236890 9124 8aaebcf7eff7655936dd67b677fbd2b0 ""
   "C:/Users/geo71/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "Drop.aux" 1664207346 1977 4e652b1f3bcbe6b2916db7ff548175fc "pdflatex"
+  "Drop.aux" 1664208399 1977 4e652b1f3bcbe6b2916db7ff548175fc "pdflatex"
   "Drop.out" 0 -1 0 "pdflatex"
-  "Drop.tex" 1664207338 9569 15c12baeccf9db539d0b9595e2666a5d ""
+  "Drop.tex" 1664208396 9511 30729449ff7d9c3e5aa7eb27b4f3734f ""
   "UB_Logo.png" 1661804791 199475 8a3460ad0ea40d4b27d54871d7aed2c6 ""
-  "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" 1664207338 9569 15c12baeccf9db539d0b9595e2666a5d ""
+  "c:/Users/geo71/Desktop/UB AddDrop/Add/Drop.tex" 1664208396 9511 30729449ff7d9c3e5aa7eb27b4f3734f ""
   (generated)
   "Drop.aux"
   "Drop.log"
